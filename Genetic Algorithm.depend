@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1537614596 source:c:\users\korisnik\desktop\nova fascikla (5)\genetic algorithm\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"Individual.hpp"
+	"Population.hpp"
+	"Functions.hpp"
+
+1537614657 c:\users\korisnik\desktop\nova fascikla (5)\genetic algorithm\individual.hpp
+	<map>
+
+1537614657 c:\users\korisnik\desktop\nova fascikla (5)\genetic algorithm\population.hpp
+	<map>
+
+1537614657 c:\users\korisnik\desktop\nova fascikla (5)\genetic algorithm\functions.hpp
+	<map>
+	<sstream>
+	<string>
+
